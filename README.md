@@ -27,8 +27,8 @@ Node.js-Secure-HTTP-HTTPS-Protocol-Analysis
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nodejs-http-https-analysis.git
-   cd nodejs-http-https-analysis
+   [git clone https://github.com/your-username/nodejs-http-https-analysis.git
+   cd nodejs-http-https-analysis](https://github.com/SinethB/Node.js-Secure-HTTP-HTTPS-Protocol-Analysis.git)
 2. **Install dependencies: (Ensure you have Node.js installed)**
    ```bash
    npm install
