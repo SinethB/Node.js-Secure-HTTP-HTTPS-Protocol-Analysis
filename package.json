@@ -1,0 +1,13 @@
+{
+  "name": "http-https-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http_server.js",
+  "scripts": {
+    "start-http": "node http_server.js",
+    "start-https": "node https_server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
